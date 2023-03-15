@@ -1,6 +1,6 @@
 {
   "name": "@pstorm/collections",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Implements collections for Typescript",
   "main": "index.js",
   "repository": {
@@ -33,6 +33,6 @@
     "ts-is-present": "^1.2.2"
   },
   "exports": {
-    ".": "./dist/src/index.js"
+    ".": "./dist/index.js"
   }
 }

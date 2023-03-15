@@ -1,5 +1,5 @@
-import "../src/index"
-import { Equals } from "../src/index"
+import "../index"
+import { Equals } from "../index"
 
 
 

@@ -1,6 +1,5 @@
-import "../src/index"
-import { Equals } from "../src/Equals"
-import {Set} from "../src/Set"
+import "../index"
+import { Equals, Set } from "../index"
 
 test("Mapped sets of strings", async() => {
     const set: Set<string> = await Set.Mapped.new(["jhahjadd", "sajkasd", "jhahjadd"])
