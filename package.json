@@ -1,6 +1,6 @@
 {
-  "name": "collections",
-  "version": "1.0.0",
+  "name": "@pstorm/collections",
+  "version": "1.0.1",
   "description": "Implements collections for Typescript",
   "main": "index.js",
   "repository": {
