@@ -1,5 +1,5 @@
 import { Equals } from "./Equals"
-import {isPresent} from "ts-is-present";
+import {isPresent} from "ts-is-present"
 
 export interface Set<T extends Equals<T>> {
     add(elem: T): Promise<void>
